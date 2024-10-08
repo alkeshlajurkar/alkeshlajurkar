@@ -1,3 +1,7 @@
+Here's the modified version of your profile with the publication included:
+
+---
+
 # 💻 **Alkesh Lajurkar** | Aspiring Data Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alkeshlajurkar&label=PROFILE+VIEWS)
@@ -19,10 +23,10 @@ I thrive on working with distributed systems and continuously enhance my knowled
 
 ### **Core Competencies** 💡
 - **Data Engineering**: Building ETL Pipelines, Distributed Data Systems, Apache Spark, Kafka, Apache Cassandra, Airflow  
-- **Big Data Technologies**: Hadoop, Hive 
+- **Big Data Technologies**: Hadoop, Hive  
 - **Database Technologies**: Relational Databases, NoSQL, Data Warehousing  
-- **Programming Languages**: Python, SQL, R 
-- **Cloud & Infrastructure**: AWS 
+- **Programming Languages**: Python, SQL, R  
+- **Cloud & Infrastructure**: AWS  
 - **Data Modeling & Analytics**: Data Pipeline Design, Data Warehousing, SQL Optimization  
 
 ### **Tools & Technologies** 🛠️
@@ -79,14 +83,14 @@ I thrive on working with distributed systems and continuously enhance my knowled
 ---
 
 ### **2. Fake News Detection System** 📰  
-- **Tech Stack**: Python, Scikit-Learn, Naive Bayes, Flask  
-- **Description**: Created a **machine learning model** to detect fake news using **TF-IDF** and **Naive Bayes**.  
+- **Tech Stack**: Python, Scikit-Learn, Passive Agressive, Flask  
+- **Description**: Created a **machine learning model** to detect fake news using **TF-IDF** and **Online Passive Aggressive Algorithm**.  
 - **GitHub**: [Fake News Detection Repository](https://github.com/alkeshlajurkar/FakeNewsDetection.git)
 
 ---
 
 ### **3. Web Templates Store** 💻  
-- **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript  
+- **Tech Stack**: JSP, MySQL, HTML, CSS, JavaScript  
 - **Description**: Built a **dynamic website** that hosts web templates for users to purchase and download.  
 - **GitHub**: [Web Templates Store Repository](https://github.com/alkeshlajurkar/WebTemplatesStore.git)
 
@@ -109,6 +113,16 @@ I thrive on working with distributed systems and continuously enhance my knowled
 
 ---
 
+## 📚 **Publications**
+
+### **1. Implementing A Passive Aggressive Classifier To Detect False Information**  
+- **Journal**: International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE)  
+- **Date**: Apr 4, 2023  
+- **Description**: This paper presents a solution using a Passive Aggressive Classifier to detect false information, which is critical for combating misinformation in today's digital world.  
+- **Link**: [Read the publication](https://ijarcce.com/papers/implementing-a-passive-aggressive-classifier-to-detect-false-information/)
+
+---
+
 ## 🎮 **Hobbies & Interests**
 
 - **Coding and Building Projects**: Constantly exploring new technologies and working on side projects to enhance my skillset.  
@@ -120,6 +134,6 @@ I thrive on working with distributed systems and continuously enhance my knowled
 ## 🌍 **Let's Connect**
 
 - 📧 **Email**: [alkeshlajurkar@gmail.com](mailto:alkeshlajurkar@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/alkeshlajurkar](https://linkedin.com/in/alkeshlajurkar)  
+- 💼 **LinkedIn**: [linkedin.com/in/alkeshlajurkar](https://linkedin.com/in/alkeshlajurkar)
 
 ---
