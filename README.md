@@ -93,13 +93,29 @@ I thrive on working with distributed systems and continuously enhance my knowled
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 **Training & Internships**
 
-**Data Engineer Intern**  
-*Microspectra Software Technologies Pvt Ltd* | *June 2023 - August 2023*  
-- Built scalable **data pipelines** using **Apache Spark** and optimized their performance using distributed computing.  
-- Developed **REST APIs** with **Flask** to provide seamless access to data analytics.  
-- Automated **ETL workflows** with **Apache Airflow**, reducing data processing times by **30%**.
+### **UI Developer Intern**  
+*Microspectra Software Technologies Pvt Ltd, Khamgaon*  
+*May 2019 - June 2019*
+
+- **Responsibilities**:  
+  - Developed and enhanced UI components for web applications using HTML, CSS, JavaScript, and PHP.  
+  - Collaborated with cross-functional teams to integrate front-end interfaces with backend services, ensuring seamless user experiences.  
+  - Conducted usability testing to optimize UI design for better functionality and responsiveness.
+
+- **Achievements**:  
+  - Successfully delivered a client project with an intuitive and user-friendly UI.  
+  - Improved database management efficiency through optimized queries and better integration with UI components.
+
+---
+
+## 🎮 **Hobbies & Interests**
+
+- **Coding and Building Projects**: Constantly exploring new technologies and working on side projects to enhance my skillset.  
+- **Playing Video Games**: A fan of strategy games that enhance problem-solving abilities and creative thinking.  
+- **Travelling**: Enjoy exploring new places and gaining different perspectives.  
+- **Reading**: Passionate about reading tech blogs, books, and research papers to stay updated with the latest trends in data engineering and AI.
 
 ---
 
