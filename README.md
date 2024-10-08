@@ -1,7 +1,3 @@
-Here’s a more **decorative and visually appealing** version of your **GitHub portfolio README**, incorporating emojis and formatting enhancements:
-
----
-
 # 💻 **Alkesh Lajurkar** | Aspiring Data Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alkeshlajurkar&label=PROFILE+VIEWS)
@@ -46,14 +42,31 @@ I thrive on working with distributed systems and continuously enhance my knowled
 - **Bachelor of Engineering in Computer Science & Engineering**  
   Prof. Ram Meghe Institute of Technology & Research, Badnera-Amravati | *2023*
 
+- **Diploma in Computer Engineering**  
+  Government Polytechnic, Murtizapur | *2020*
+
 ---
 
 ## 🏆 **Certifications**
 
-- **Python Programming** by Coursera  
-- **AWS Certified Solutions Architect – Associate**  
-- **Data Engineering on Google Cloud** by Google Cloud  
-- **PHP and MySQL Web Development Training**
+- **Data Analytics and Visualization Job Simulation**  
+  Forage | *Issued: Oct 2024*  
+  Skills: Data Analysis, Data Modeling, Data Visualization, EDA, Python  
+
+- **Python (Basic)**  
+  HackerRank | *Issued: Oct 2024*  
+
+- **SQL (Advanced)**  
+  HackerRank | *Issued: Oct 2024*  
+
+- **PHP and MySQL Training**  
+  Spoken Tutorial | *Issued: Jan 2022*  
+
+- **Introduction to Programming Using Python**  
+  Perfect eLearning | *Issued: Jul 2021*  
+
+- **Introduction to Cybersecurity**  
+  Cisco | *Issued: May 2021*  
 
 ---
 
@@ -66,21 +79,14 @@ I thrive on working with distributed systems and continuously enhance my knowled
 
 ---
 
-### **2. Real-Time Weather Forecasting Pipeline** ☀️  
-- **Tech Stack**: Apache Kafka, Spark Streaming, Airflow, Cassandra, Python  
-- **Description**: Built a **real-time weather forecasting system** using Kafka and Spark Streaming to process weather data as it comes in.  
-- **GitHub**: [Weather Forecasting Pipeline Repository](https://github.com/alkeshlajurkar/Weather-Pipeline.git)
-
----
-
-### **3. Fake News Detection System** 📰  
+### **2. Fake News Detection System** 📰  
 - **Tech Stack**: Python, Scikit-Learn, Naive Bayes, Flask  
 - **Description**: Created a **machine learning model** to detect fake news using **TF-IDF** and **Naive Bayes**.  
 - **GitHub**: [Fake News Detection Repository](https://github.com/alkeshlajurkar/FakeNewsDetection.git)
 
 ---
 
-### **4. Web Templates Store** 💻  
+### **3. Web Templates Store** 💻  
 - **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript  
 - **Description**: Built a **dynamic website** that hosts web templates for users to purchase and download.  
 - **GitHub**: [Web Templates Store Repository](https://github.com/alkeshlajurkar/WebTemplatesStore.git)
@@ -101,6 +107,5 @@ I thrive on working with distributed systems and continuously enhance my knowled
 
 - 📧 **Email**: [alkeshlajurkar@gmail.com](mailto:alkeshlajurkar@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/alkeshlajurkar](https://linkedin.com/in/alkeshlajurkar)  
-- 🐦 **Twitter**: [@alkeshlajurkar](https://twitter.com/alkeshlajurkar)  
 
 ---
