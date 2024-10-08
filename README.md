@@ -19,15 +19,14 @@ I thrive on working with distributed systems and continuously enhance my knowled
 
 ### **Core Competencies** 💡
 - **Data Engineering**: Building ETL Pipelines, Distributed Data Systems, Apache Spark, Kafka, Apache Cassandra, Airflow  
-- **Big Data Technologies**: Hadoop, Hive, Pig  
+- **Big Data Technologies**: Hadoop, Hive 
 - **Database Technologies**: Relational Databases, NoSQL, Data Warehousing  
-- **Programming Languages**: Python, SQL, Bash Scripting  
-- **Cloud & Infrastructure**: AWS, Docker, Kubernetes, Terraform  
+- **Programming Languages**: Python, SQL, R 
+- **Cloud & Infrastructure**: AWS 
 - **Data Modeling & Analytics**: Data Pipeline Design, Data Warehousing, SQL Optimization  
 
 ### **Tools & Technologies** 🛠️
 - **Big Data Frameworks**: Apache Spark, Hadoop, Hive  
-- **ETL Tools**: Apache NiFi, Talend, Airflow  
 - **Data Visualization**: Tableau, Power BI  
 - **Version Control**: Git, GitHub  
 - **Data Processing**: Pandas, NumPy, Scikit-Learn  
@@ -113,7 +112,6 @@ I thrive on working with distributed systems and continuously enhance my knowled
 ## 🎮 **Hobbies & Interests**
 
 - **Coding and Building Projects**: Constantly exploring new technologies and working on side projects to enhance my skillset.  
-- **Playing Video Games**: A fan of strategy games that enhance problem-solving abilities and creative thinking.  
 - **Travelling**: Enjoy exploring new places and gaining different perspectives.  
 - **Reading**: Passionate about reading tech blogs, books, and research papers to stay updated with the latest trends in data engineering and AI.
 
