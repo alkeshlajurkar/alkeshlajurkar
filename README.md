@@ -1,6 +1,3 @@
-Here's the modified version of your profile with the publication included:
-
----
 
 # 💻 **Alkesh Lajurkar** | Aspiring Data Engineer
 
