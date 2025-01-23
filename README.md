@@ -37,7 +37,7 @@ I thrive on working with distributed systems and continuously enhance my knowled
 ## 🎓 **Education**
 
 - **PG Diploma in Big Data Analytics**  
-  Sunbeam Institute of Information Technology, Pune | *2023*
+  Sunbeam Institute of Information Technology, Pune | *2024*
 
 - **Bachelor of Engineering in Computer Science & Engineering**  
   Prof. Ram Meghe Institute of Technology & Research, Badnera-Amravati | *2023*
